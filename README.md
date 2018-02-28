@@ -1,6 +1,6 @@
 # ferramenta de controle de versão
 
 * mercurial
-* github
+* gitlab
 * subversion
 * cvs
